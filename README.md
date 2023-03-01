@@ -10,7 +10,7 @@ There are a total of 44 teams with approximately 15 players in each team.
 ![image](https://user-images.githubusercontent.com/64576778/222076280-376e5d26-aa08-4e32-bd0b-5d8d696b4b5a.png)<br />
 Building a script to get all the information for all the players
 
-Challenges:
+***Challenges:***
 
 1. Reload issues
 2. Available Player information is not the same for all the players
