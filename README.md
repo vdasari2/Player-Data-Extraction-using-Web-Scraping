@@ -16,7 +16,7 @@ Building a script to get all the information for all the players
 2. Available Player information is not the same for all the players
 3. Page HTML code changes based on information available
 
-Sample Data (Working on scrapper to get more data): 
+***Sample Data (Working on scrapper to get more data):***
 
 ![image](https://user-images.githubusercontent.com/64576778/222075220-c749b6fd-83b7-4200-bc95-485d974763f5.png)
 
