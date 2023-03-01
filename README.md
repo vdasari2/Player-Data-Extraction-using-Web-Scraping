@@ -14,7 +14,7 @@ Building a script to get all the information for all the players
 
 1. Reload issues
 2. Available Player information is not the same for all the players
-3. Page HTML code changes based on information available
+3. Page HTML code changes based on information available for each player
 
 ***Sample Data (Working on scrapper to get more data):***
 
