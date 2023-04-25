@@ -10,11 +10,11 @@ There are a total of 44 teams with approximately 15 players in each team.
 ![image](https://user-images.githubusercontent.com/64576778/222076280-376e5d26-aa08-4e32-bd0b-5d8d696b4b5a.png)<br />
 Building a script to get all the information for all the players
 
-***Challenges:***
+***Further Improvements:***
+1. Upload Scraped Data into Cloud (Azure Blob Storage)
+2. Perform Exploratory Data Analysis
+3. Import the data from Cloud Storage to Power BI to create dashboards
 
-1. Reload issues
-2. Available Player information is not the same for all the players
-3. Page HTML code changes based on information available for each player
 
 ***Sample Data (Working on scrapper to get more data):***
 
