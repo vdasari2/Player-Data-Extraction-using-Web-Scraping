@@ -1,22 +1,31 @@
 # Player-Data-Extraction
 
-![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/64576778/222074936-00863d34-a8c6-4abe-bdf5-36c3008ee7f8.png)
+![image](https://github.com/vdasari2/Player-Data-Extraction-using-Web-Scraping/assets/64576778/b01b5daf-44e9-42df-98b0-eef173934e1b)
+
                        
                        
-                                                                          ***Project Proposal Version 1:***
+                                            ***Project Proposal Version 1:***
 
+Scraped Data will have information of all the basketball teams (511 Players from 18 different teams), players in each team, their personal information and game statistics with over 33 
 
+***Data Scraping:***
+1. Data is Scraped from https://www.basketball-reference.com/.
 
+***Data Exploration:***
+1. Looking into the dataset
+2. Understanding columns
+3. Altering out unnecessary columns
+4. Missing value check
+5. Numerical values check
+6. Categorical values check
 
-![image](https://user-images.githubusercontent.com/64576778/222076280-376e5d26-aa08-4e32-bd0b-5d8d696b4b5a.png)<br />
-
-Scraped Data will have information of all the basketball teams, players in each team, their personal information and game statistics
+***Data Cleaning:***
+1. Cleaning Categorical Column Values
+2. Handling Missing Values
 
 ***Further Improvements:***
 1. Upload Scraped Data into Cloud (Azure Blob Storage)
-2. Perform Exploratory Data Analysis
-3. Import the data from Cloud Storage to Power BI to create dashboards
-
+2. Import the data from Cloud Storage to Tableau to create dashboards
 
 ***Scraped Player Data:***
 
